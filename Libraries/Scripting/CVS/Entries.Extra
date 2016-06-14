@@ -1,0 +1,10 @@
+/Scripting.vcproj////*////
+/bison.simple////*////
+/createmultiplelexers.bat////*////
+/createmultipleparsers.bat////*////
+/parserfuncs.cpp////*////
+/script_lexer.l////*////
+/script_parser.y////*////
+/scriptfile.cpp////*////
+/scriptfile.h////*////
+/yy-sed////*////

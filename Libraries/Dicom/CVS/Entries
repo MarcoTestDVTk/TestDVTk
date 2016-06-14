@@ -1,0 +1,27 @@
+/Dicom.vcproj/1.1/Wed Dec  3 08:45:24 2008//
+/dcm_attribute.cpp/1.3/Fri Jul 10 09:00:46 2009//
+/dcm_attribute.h/1.3/Fri Jul 10 09:00:46 2009//
+/dcm_attribute_encode.cpp/1.4/Fri Jul 10 09:00:46 2009//
+/dcm_attribute_group.cpp/1.3/Fri Jul 10 09:00:46 2009//
+/dcm_attribute_group.h/1.4/Fri Jul 10 09:00:46 2009//
+/dcm_attribute_group_encode.cpp/1.3/Fri Jul 10 09:00:46 2009//
+/dcm_attribute_group_log.cpp/1.3/Fri Jul 10 09:00:46 2009//
+/dcm_attribute_group_set.cpp/1.4/Fri Jul 10 09:00:46 2009//
+/dcm_attribute_log.cpp/1.3/Fri Jul 10 09:00:46 2009//
+/dcm_command.cpp/1.3/Fri Jul 10 09:00:46 2009//
+/dcm_command.h/1.3/Fri Jul 10 09:00:46 2009//
+/dcm_dataset.cpp/1.3/Fri Jul 10 09:00:46 2009//
+/dcm_dataset.h/1.3/Fri Jul 10 09:00:46 2009//
+/dcm_dir_dataset.cpp/1.3/Fri Jul 10 09:00:46 2009//
+/dcm_dir_dataset.h/1.3/Fri Jul 10 09:00:46 2009//
+/dcm_item.cpp/1.3/Fri Jul 10 09:00:46 2009//
+/dcm_item.h/1.3/Fri Jul 10 09:00:46 2009//
+/dcm_value_sq.cpp/1.3/Fri Jul 10 09:00:46 2009//
+/dcm_value_sq.h/1.3/Fri Jul 10 09:00:46 2009//
+/dcm_value_ul.cpp/1.3/Fri Jul 10 09:00:46 2009//
+/dcm_value_ul.h/1.3/Fri Jul 10 09:00:46 2009//
+/item_handle.cpp/1.3/Fri Jul 10 09:00:46 2009//
+/item_handle.h/1.3/Fri Jul 10 09:00:46 2009//
+/private_attribute.cpp/1.3/Fri Jul 10 09:00:46 2009//
+/private_attribute.h/1.3/Fri Jul 10 09:00:46 2009//
+D

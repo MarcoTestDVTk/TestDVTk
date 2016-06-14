@@ -1,0 +1,13 @@
+/Media.vcproj////*////
+/dcm_dir_dataset.cpp////*////
+/dcm_dir_dataset.h////*////
+/filedataset.cpp////*////
+/filedataset.h////*////
+/filehead.cpp////*////
+/filehead.h////*////
+/filetail.cpp////*////
+/filetail.h////*////
+/generateDICOMDIR.cpp////*////
+/generateDICOMDIR.h////*////
+/media.cpp////*////
+/media.h////*////
